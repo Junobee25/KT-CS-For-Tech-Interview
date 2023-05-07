@@ -14,12 +14,12 @@ SW개발자들이 필수적으로 알아야 하는 CS지식을 공부하고 정�
 ## 🗂️ CS지식 
 |**과목명**|**질문보기**|
 |-|-|
-|**Developer Knowledge**|[📃질문보기](https://github.com/SSAFY-CS-STUDY/Tech_interview/blob/main/02.database/README.md)|
-|**Design Patterns**|[📃질문보기](https://github.com/SSAFY-CS-STUDY/Tech_interview/blob/main/01.network/README.md)|
-|**Network**|[📃질문보기](https://github.com/SSAFY-CS-STUDY/Tech_interview/blob/main/03.Operating_system/README.md)|
-|**Operating System**|[📃질문보기](https://github.com/SSAFY-CS-STUDY/Tech_interview/tree/main/04.Java/README.md)|
-|**DataBase**|[📃질문보기](https://github.com/SSAFY-CS-STUDY/Tech_interview/tree/main/05.Spring/README.md)|-|
-|**Data Structure**|[📃질문보기](https://github.com/SSAFY-CS-STUDY/Tech_interview/tree/main/05.Spring/README.md)|-|-|-|
+|**Developer Knowledge**|[📃질문보기](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/Development_common_sense)|
+|**Design Patterns**|[📃질문보기](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/DesignPattern)|
+|**Network**|[📃질문보기](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/Network)|
+|**Operating System**|[📃질문보기](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/OS)|
+|**DataBase**|[📃질문보기](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/Database)|-|
+|**Data Structure**|[📃질문보기](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/DataStructure)|-|-|-|
 <br/>
 
 
