@@ -40,6 +40,6 @@ SW개발자들이 필수적으로 알아야 하는 CS지식을 공부하고 정�
 ```
 
 ## 🛠 Github 관리
-## [forking workflow](https://velog.io/@hyowon_lee/Git-GitHub%EB%A1%9C-%ED%98%91%EC%97%85%ED%95%98%EA%B8%B0-Forking-Workflow)
-<img width="300px" src="https://velog.velcdn.com/images%2Fhyowon_lee%2Fpost%2F6356c523-e11d-45f7-a24e-1321fc077480%2Fimage.png"/>
+#[forking workflow](https://velog.io/@hyowon_lee/Git-GitHub%EB%A1%9C-%ED%98%91%EC%97%85%ED%95%98%EA%B8%B0-Forking-Workflow)
+<img width="400px" src="https://velog.velcdn.com/images%2Fhyowon_lee%2Fpost%2F6356c523-e11d-45f7-a24e-1321fc077480%2Fimage.png"/>
 
