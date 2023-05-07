@@ -10,6 +10,17 @@
 | <img width="80px" src="https://avatars.githubusercontent.com/u/109403631?v=4" /> | <img width="80px" src="https://user-images.githubusercontent.com/50205887/207570536-f5a82e48-99a1-4399-91d3-75fc5f8f3349.png" /> | <img width="80px" src="https://avatars.githubusercontent.com/u/62207913?v=4"/> |<img width="80px" src="https://avatars.githubusercontent.com/u/66792515?v=4">| <img width="80px" src="https://avatars.githubusercontent.com/u/89768010?v=4"> |<img width="80px" src="https://avatars.githubusercontent.com/u/121682792?v=4"> |<img width="80px" src="https://avatars.githubusercontent.com/u/57888145?v=4"> |<img width="80px" src="https://avatars.githubusercontent.com/u/57888145?v=4">| 
 [@Junobee25](https://github.com/Junobee25) | [@jisoo29](https://github.com/jisoo29) | [@jhsy0429](https://github.com/jhsy0429) | [@kimseongho3077](https://github.com/kimseongho3077)|[@GilWonLee](https://github.com/ROADwon) | [@rxmxntic](https://github.com/rxmxntic) | [@yanghj0](https://github.com/yanghj0) |  [@yanghj0](https://github.com/yanghj0) |
 
+## 🗂️CS지식 
+|**과목명**|**질문보기**|
+|-|-|-|-|-|
+|**Developer Knowledge**|[📃질문보기](https://github.com/SSAFY-CS-STUDY/Tech_interview/blob/main/02.database/README.md)|
+|**Design Patterns**|[📃질문보기](https://github.com/SSAFY-CS-STUDY/Tech_interview/blob/main/01.network/README.md)|
+|**Network**|[📃질문보기](https://github.com/SSAFY-CS-STUDY/Tech_interview/blob/main/03.Operating_system/README.md)|
+|**Operating System**|[📃질문보기](https://github.com/SSAFY-CS-STUDY/Tech_interview/tree/main/04.Java/README.md)|
+|**DataBase**|[📃질문보기](https://github.com/SSAFY-CS-STUDY/Tech_interview/tree/main/05.Spring/README.md)|
+|**Data Structure**|[📃질문보기](https://github.com/SSAFY-CS-STUDY/Tech_interview/tree/main/05.Spring/README.md)|-|-|
+<br/>
+
 
 
 ## 📑 디렉토리 구조( develop branch 에서 관리 )
