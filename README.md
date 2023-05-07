@@ -1,6 +1,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Tech-Interview&fontAlign=70&fontAlignY=35&color=gradient)
 
-
+## 📣 소개
+SW개발자들이 필수적으로 알아야 하는 CS지식을 공부하고 정리하기 위한 Repo ( 2023 - 05 - 20 ~ 취뽀 )
 ## ⭐️ 스터디원
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunobee25%2FKT-CS-For-Tech-Interview&count_bg=%236EFF00&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
