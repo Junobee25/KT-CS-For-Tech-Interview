@@ -18,7 +18,7 @@
 |**Network**|[📃질문보기](https://github.com/SSAFY-CS-STUDY/Tech_interview/blob/main/03.Operating_system/README.md)|
 |**Operating System**|[📃질문보기](https://github.com/SSAFY-CS-STUDY/Tech_interview/tree/main/04.Java/README.md)|
 |**DataBase**|[📃질문보기](https://github.com/SSAFY-CS-STUDY/Tech_interview/tree/main/05.Spring/README.md)|
-|**Data Structure**|[📃질문보기](https://github.com/SSAFY-CS-STUDY/Tech_interview/tree/main/05.Spring/README.md)|-|-|
+|**Data Structure**|[📃질문보기](https://github.com/SSAFY-CS-STUDY/Tech_interview/tree/main/05.Spring/README.md)|-|-|-|
 <br/>
 
 
