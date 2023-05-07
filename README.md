@@ -1,2 +1,1 @@
-# KT-CS-STUDY_Tech_interview
-개발자에게 필요한 CS 지식정리
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Tech-Interview&fontAlign=70&fontAlignY=35&color=gradient)
